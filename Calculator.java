@@ -8,6 +8,7 @@ public class Calculator {
 	}
 	
 	public double addition(double a, double b) {
+		// Causes merge conflict
 		return b + a;
 	}
 }
